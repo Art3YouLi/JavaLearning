@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d859e91-c0ab-4fbc-b0ac-54d6ea8a3ee2" name="Changes" comment="首次提交代码helloworld" />
+    <list default="true" id="7d859e91-c0ab-4fbc-b0ac-54d6ea8a3ee2" name="Changes" comment="首次提交代码helloworld">
+      <change afterPath="$PROJECT_DIR$/codes/src/com/art3youli/convertType/typeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/src/com/art3youli/convertType/typeDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/src/com/art3youli/literal/literalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/src/com/art3youli/variable/variableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codes/codes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/com/art3youli/hello/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/codes/src/com/art3youli/hello/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "D:/Project/TestTools/JavaSE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +54,68 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.typeDemo2">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.art3youli.hello.HelloWorld" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.art3youli.hello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="literalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.art3youli.literal.literalDemo" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.art3youli.literal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.art3youli.convertType.typeDemo" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.art3youli.convertType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typeDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.art3youli.convertType.typeDemo2" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.art3youli.convertType.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.typeDemo2" />
+        <item itemvalue="Application.typeDemo" />
+        <item itemvalue="Application.literalDemo" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
