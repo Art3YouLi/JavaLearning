@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d859e91-c0ab-4fbc-b0ac-54d6ea8a3ee2" name="Changes" comment="首次提交代码helloworld">
+    <list default="true" id="7d859e91-c0ab-4fbc-b0ac-54d6ea8a3ee2" name="Changes" comment="完善第二天学习：补充学习类型转换和二进制原码反码补码知识">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaSE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seven.iml" afterDir="false" />
@@ -134,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676466900190</updated>
       <workItem from="1676466901187" duration="1769000" />
-      <workItem from="1677675334636" duration="797000" />
+      <workItem from="1677675334636" duration="1498000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交代码helloworld">
       <created>1676468810304</created>
@@ -143,14 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1676468810304</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完善第二天学习：补充学习类型转换和二进制原码反码补码知识">
+      <created>1677679504490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677679504490</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="首次提交代码helloworld" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次提交代码helloworld" />
+    <MESSAGE value="完善第二天学习：补充学习类型转换和二进制原码反码补码知识" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善第二天学习：补充学习类型转换和二进制原码反码补码知识" />
   </component>
 </project>
